@@ -1,4 +1,4 @@
-FROM ???
+FROM ubuntu
 
 # port à exposer pour accéder à l'application
 EXPOSE 80
